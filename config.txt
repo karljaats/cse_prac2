@@ -1,0 +1,15 @@
+# This is Git's per-user configuration file.
+[user]
+# Please adapt and uncomment the following lines:
+#	name = Karl Jääts
+#	email = Karl@LAPTOP-DABJMUUA.(none)
+[user]
+	email = karl.jaats@gmail.com
+	name = Karl Jääts
+[core]
+	autocrlf = true
+	editor = notepad
+[credential]
+	helper = wincred
+[alias]
+	st = status
