@@ -10,3 +10,5 @@
 	helper = wincred
 [alias]
 	st = status
+
+*.class files are compiled Java classes
